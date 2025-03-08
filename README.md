@@ -24,41 +24,41 @@
 
 <div align="left">
  <p>
- <a href='https://html.com/'>
-      <img src="https://skillicons.dev/icons?i=html"/>
+    <a href='https://html.com/'>
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
     </a>
     <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-      <img src="https://skillicons.dev/icons?i=css"/>
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
     </a>
     <a href='https://www.javascript.com/'>
-      <img src="https://skillicons.dev/icons?i=js"/>
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/>
     </a>
     <a href='https://www.typescriptlang.org/'>
-      <img src="https://skillicons.dev/icons?i=ts"/>
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/>
     </a>
     <a href='https://reactjs.org/'>
-      <img src="https://skillicons.dev/icons?i=react"/>
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
     </a>
     <a href='https://nextjs.org/'>
-      <img src="https://skillicons.dev/icons?i=nextjs"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/>
     </a>
     <a href='https://nodejs.org/en/'>
-      <img src="https://skillicons.dev/icons?i=nodejs"/>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
     </a>
     <a href='https://git-scm.com/'>
-      <img src="https://skillicons.dev/icons?i=git"/>
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
     </a>
     <a href='https://www.python.org/'>
-      <img src="https://skillicons.dev/icons?i=python"/>
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
     </a>
     <a href='https://www.java.com/'>
-      <img src="https://skillicons.dev/icons?i=java"/>
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48"/>
     </a>
     <a href='https://www.oracle.com/database/technologies/appdev/plsql.html'>
-      <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg"/>
+      <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" width="48" height="48"/>
     </a>
     <a href='https://apex.oracle.com/'>
-      <img src="https://www.oracle.com/a/ocom/img/dc/em/oracle-apex.png"/>
+      <img src="https://www.oracle.com/a/ocom/img/dc/em/oracle-apex.png" width="48" height="48"/>
     </a>
 <!--     <a href='https://styled-components.com/'>
       <img src="https://skillicons.dev/icons?i=styledcomponents"/>
