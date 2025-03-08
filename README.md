@@ -1,6 +1,6 @@
 
 <img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
-<h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm Evander Inácio
+<h1 align="left">Hi, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30"> I'm Elton Lopes
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=0e14c2" alt="Profile views" /> </p>
