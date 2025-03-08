@@ -58,7 +58,7 @@
       <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg"/>
     </a>
     <a href='https://apex.oracle.com/'>
-      <img src="https://img.shields.io/badge/Oracle%20APEX-red?style=for-the-badge&logo=oracle"/>
+      <img src="https://www.oracle.com/a/ocom/img/dc/em/oracle-apex.png"/>
     </a>
 <!--     <a href='https://styled-components.com/'>
       <img src="https://skillicons.dev/icons?i=styledcomponents"/>
