@@ -9,11 +9,11 @@
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
 
-- 💻 I'm Front-End Developer;
+- 💻 I'm Full Stack Developer;
 
 - 🚀 My portfolio **[ Elton.com.br](https://eltonlopezzs.github.io/PortfolioResponsivo/)**;
  
-- 👨‍🎓 I'm graduated in **Systems Analysis and Development.**;
+- 👨‍🎓 I'm finishing my **Software Engineering** degree;
 
 - 📫 If you want to send a message.  **eltonreislopes15@gmail.com**
 
