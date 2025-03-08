@@ -60,6 +60,20 @@
     <a href='https://apex.oracle.com/'>
       <img src="https://www.oracle.com/a/ocom/img/dc/em/oracle-apex.png" width="48" height="48"/>
     </a>
+     <a href='https://discord.com/'>
+      <img src="https://skillicons.dev/icons?i=discord" width="48" height="48"/>
+    </a>
+       <a href='https://eclipseide.org/'>
+      <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48"/>
+    </a>
+      </a>
+       <a href='https://www.djangoproject.com/'>
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48"/>
+    </a>
+       </a>
+       <a href='https://code.visualstudio.com/'>
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
+    </a>
 <!--     <a href='https://styled-components.com/'>
       <img src="https://skillicons.dev/icons?i=styledcomponents"/>
     </a>
