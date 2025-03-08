@@ -55,7 +55,7 @@
       <img src="https://skillicons.dev/icons?i=java"/>
     </a>
     <a href='https://www.oracle.com/database/technologies/appdev/plsql.html'>
-      <img src="https://img.shields.io/badge/PL%2FSQL-orange?style=for-the-badge&logo=oracle"/>
+      <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg"/>
     </a>
     <a href='https://apex.oracle.com/'>
       <img src="https://img.shields.io/badge/Oracle%20APEX-red?style=for-the-badge&logo=oracle"/>
