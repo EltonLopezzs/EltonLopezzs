@@ -24,7 +24,7 @@
 
 <div align="left">
  <p>
-    <a href='https://html.com/'>
+ <a href='https://html.com/'>
       <img src="https://skillicons.dev/icons?i=html"/>
     </a>
     <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
@@ -46,7 +46,19 @@
       <img src="https://skillicons.dev/icons?i=nodejs"/>
     </a>
     <a href='https://git-scm.com/'>
-     <img src="https://skillicons.dev/icons?i=git"/>
+      <img src="https://skillicons.dev/icons?i=git"/>
+    </a>
+    <a href='https://www.python.org/'>
+      <img src="https://skillicons.dev/icons?i=python"/>
+    </a>
+    <a href='https://www.java.com/'>
+      <img src="https://skillicons.dev/icons?i=java"/>
+    </a>
+    <a href='https://www.oracle.com/database/technologies/appdev/plsql.html'>
+      <img src="https://img.shields.io/badge/PL%2FSQL-orange?style=for-the-badge&logo=oracle"/>
+    </a>
+    <a href='https://apex.oracle.com/'>
+      <img src="https://img.shields.io/badge/Oracle%20APEX-red?style=for-the-badge&logo=oracle"/>
     </a>
 <!--     <a href='https://styled-components.com/'>
       <img src="https://skillicons.dev/icons?i=styledcomponents"/>
