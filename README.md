@@ -82,8 +82,8 @@
   <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto:Eltonreislopes15@gmail.com"/> 
  </a>
  
- <a href="https://www.evander.com.br/" alt="Portfolio">
-  <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evander.com.br/"/>
+ <a href="https://eltonlopezzs.github.io/PortfolioResponsivo/" alt="Portfolio">
+  <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://eltonlopezzs.github.io/PortfolioResponsivo/"/>
  </a>
 
  </p>
