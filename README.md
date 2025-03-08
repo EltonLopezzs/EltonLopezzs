@@ -48,7 +48,7 @@
     <a href='https://git-scm.com/'>
      <img src="https://skillicons.dev/icons?i=git"/>
     </a>
-    <a href='https://styled-components.com/'>
+<!--     <a href='https://styled-components.com/'>
       <img src="https://skillicons.dev/icons?i=styledcomponents"/>
     </a>
     <a href='https://tailwindui.com/'>
@@ -62,7 +62,7 @@
     </a>
     <a href='https://www.figma.com/'>
      <img src="https://skillicons.dev/icons?i=figma"/>
-    </a>
+    </a> -->
  </p>
 
 </div>
