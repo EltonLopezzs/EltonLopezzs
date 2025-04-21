@@ -11,7 +11,7 @@
 
 - 💻 I'm Full Stack Developer;
 
-- 🚀 My portfolio **[ Elton.com.br](https://eltonlopezzs.github.io/PortfolioResponsivo/)**;
+- 🚀 My portfolio **[ Elton.com.br](https://eltonlopezzs.github.io/portfolio-main/)**;
  
 - 👨‍🎓 I'm finishing my **Software Engineering** degree;
 
