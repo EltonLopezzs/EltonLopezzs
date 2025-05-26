@@ -74,21 +74,6 @@
        <a href='https://code.visualstudio.com/'>
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
     </a>
-<!--     <a href='https://styled-components.com/'>
-      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
-    </a>
-    <a href='https://tailwindui.com/'>
-     <img src="https://skillicons.dev/icons?i=tailwind"/>
-    </a>
-    <a href='https://sass-lang.com/'>
-     <img src="https://skillicons.dev/icons?i=sass"/>
-    </a>
-     <a href='https://mui.com/'>
-     <img src="https://skillicons.dev/icons?i=materialui"/>
-    </a>
-    <a href='https://www.figma.com/'>
-     <img src="https://skillicons.dev/icons?i=figma"/>
-    </a> -->
  </p>
 
 </div>
